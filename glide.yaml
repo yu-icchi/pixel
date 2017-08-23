@@ -1,0 +1,5 @@
+package: github.com/yu-ichiko/pixel
+testImport:
+- package: github.com/stretchr/testify
+  subpackages:
+  - require
